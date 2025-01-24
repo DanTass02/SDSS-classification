@@ -1,4 +1,4 @@
-# SDSS-DR14-classification-of-stars-galaxies-and-quasars
+# SDSS DR14 classification of stars galaxies and quasars
 Classification of stars, galaxies and quasars from the Sloan Digital Sky Survey (SDSS) data release 14 (DR14)
 
 ## Project Overview
