@@ -13,3 +13,10 @@ The project is divided into 3 components:
 **Q1**: Here we look at a traditional ML technique, explore how well it performs at this classification task and how we could potentially make it even more accurate. For this traditional approach we will investigate decision trees.
 **Q2**: Then we move on to looking at a NN approach. We'll make use of the PyTorch library to build our NN, evaluate how it performs and then compare it to our decision tree.
 **Q3**: Finally we'll look at how different factors can impact how our NN peforms, for example how does the amount of training data available to our model affect it's performance?
+
+## Objectives
+The main objectives for this project are:
+- **Comparison of techniques**: How well does each approach perform? do traditional ML techniques still have their place in classification problems?
+- **Neural Network performance**: Explore how parameters can affect the performance of a NN
+- **Research**: Adress a chosen question on how NNs perform: How do choices about data such as i) amount of training data and ii) balance of
+classes in a classification problem affect the performance of a neural network?
