@@ -59,6 +59,8 @@ The first few rows of the data:
 | 1.24E+18      | 183.8705294   | 0.049910685   | 17.76536  | 16.60272  | 16.16116  | 15.98233  | 15.90438  | 752     | 301       | 4          | 269       | 3.72E+18      | STAR      | -0.000110616 | 3306      | 54922    | 510        |
 | 1.24E+18      | 183.8832883   | 0.102556752   | 17.55025  | 16.26342  | 16.43869  | 16.55492  | 16.61326  | 752     | 301       | 4          | 269       | 3.72E+18      | STAR      | 0.000590357  | 3306      | 54922    | 512        |
 
+This dataset was chosen because it is a strong candidate for showing the strenghts and weaknesses of both traditional and NN approaches, as well as showing how different features from the dataset can impact the performance of both models.
+
 ## Motivations for each approach
 ### Decision tree
 With all of the advanced ML techniques that we have today, then what is the point in using a traditional ML technique? To put it simply classical ML techniques still have their place within classification problems, especially if the dataset isn't too large or complex, and can be less computationally expensive. Furthermore, they are relatively easy for beginners to learn and imploment, which is why in Q1 we will be starting with a simple decision tree to tackle a classification problem. The aim is to guide beginners through the structure of a decision tree and how it interprets data, and then to show them how it can be improved.
