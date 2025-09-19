@@ -22,7 +22,7 @@ The main objectives for this project are:
 classes in a classification problem affect the performance of a neural network?
 
 ## The dataset
-Within this project, we will be exploring the fourteenth data release from SDSS. This contains 10,000 records of astronomical objects, each obejct being assigned a class of `STAR`, `GALXAY` or `QSO` (quasar). DR14 contains obsvervations from the July 2016 observing campagin. The dataset contains 17 feature columns which describe things such as the targeted object's id, right ascension and declination (ra and dec), magnitude through the telescope's different filters, redshift etc. In particular, the magnitudes are a key feature for classifcation.  
+Within this project, we will be exploring the fourteenth data release from SDSS. This contains 10,000 records of astronomical objects, each obejct being assigned a class of `STAR`, `GALAXY` or `QSO` (quasar). DR14 contains obsvervations from the July 2016 observing campagin. The dataset contains 17 feature columns which describe things such as the targeted object's id, right ascension and declination (ra and dec), magnitude through the telescope's different filters, redshift etc. In particular, the magnitudes are a key feature for classifcation.  
 
 The dataset can be accessed from [here](https://live-sdss4org-dr14.pantheonsite.io/).  
 
